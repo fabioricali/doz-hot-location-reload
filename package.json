@@ -1,0 +1,27 @@
+{
+  "name": "doz-hot-location-reload",
+  "version": "1.0.0",
+  "description": "Hot location reload for Doz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dozjs/doz-hot-location-reload.git"
+  },
+  "keywords": [
+    "doz",
+    "hot",
+    "module",
+    "location",
+    "reload",
+    "hmr"
+  ],
+  "author": "Fabio Ricali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dozjs/doz-hot-location-reload/issues"
+  },
+  "homepage": "https://github.com/dozjs/doz-hot-location-reload#readme"
+}
