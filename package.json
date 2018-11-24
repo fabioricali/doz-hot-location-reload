@@ -1,6 +1,6 @@
 {
   "name": "doz-hot-location-reload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hot location reload for Doz",
   "main": "index.js",
   "scripts": {
